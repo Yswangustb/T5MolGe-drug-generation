@@ -1,0 +1,7 @@
+utils.py:   The functional functions
+dataset.py:   Datasets 
+model.py:    The main model
+trainer.py:    The training file to arrange the training process
+train.py:      Begin to train in python
+gt.py:     Some configuration files
+
